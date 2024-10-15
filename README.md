@@ -82,8 +82,6 @@ As a Burundian who has lived and studied in my country for many years, I have al
 
 - **Investment and Growth Metrics:** Rwanda has a much higher average FDI of **$250.31 million** and a stronger average GDP growth rate of **6.71%**, compared to Burundi's lower average FDI of **$22.06 million** and GDP growth of **2.11%**. Furthermore, Rwanda’s maximum FDI is **$398.60 million**, highlighting its ability to attract foreign investment, which likely supports its higher GDP growth.
 
-- **Educational Disparities:** Rwanda’s well-developed education system is linked to its economic growth, while Burundi struggles with low literacy rates and educational achievements, especially among those working in agriculture.
-
 - **Political Stability:** Rwanda demonstrates better governance, with improvements in political stability and the rule of law shifting from negative to positive values on a scale of **-2.5 to 2.5** over the years. In contrast, Burundi has consistently negative political indicators, remaining below zero on this scale from 2010 to 2022, reflecting ongoing challenges with political instability. This instability hinders investment and sustainable growth opportunities, contributing to economic stagnation in Burundi.
 
 ![political stability](https://github.com/user-attachments/assets/f63e263b-9981-45c0-b025-a04aa8612c71)
