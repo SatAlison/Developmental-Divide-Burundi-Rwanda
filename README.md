@@ -27,6 +27,7 @@ This project looks at the economic, educational, and political factors that caus
 
 As a Burundian who has lived and studied in my country for many years, I have always wondered why Rwanda is growing faster than Burundi. This project aims to understand the key factors behind this difference. By looking at economic, educational, and political aspects, I hope to find insights that can help improve development in Burundi, create a better future for its people, and be part of the change-makers driving positive change.
 
+![gdp comparison](https://github.com/user-attachments/assets/6fc12519-b854-45a2-b0ad-fa2035c0a371)
 
 ### Objectives
 - **Economic Development Comparison:** Compare economic growth and performance metrics between Burundi and Rwanda.
@@ -62,6 +63,8 @@ As a Burundian who has lived and studied in my country for many years, I have al
 - Employed the **correlation matrix** to calculate and visualize correlations between different variables.
 - Identified significant trends and relationships to support insights about economic performance.
 - Documented findings to highlight key correlations and their implications for Burundi and Rwanda.
+  
+![correlation](https://github.com/user-attachments/assets/f5e0e55b-5461-4c6a-8c38-8cae7297a270)
 
 ### Data Visualization
 - Developed visual representations of the data using tools like **Plotly**, **Seaborn**, and **Matplotlib**.
@@ -72,7 +75,9 @@ As a Burundian who has lived and studied in my country for many years, I have al
 ## Insights and Recommendations
 ### Key Findings
 - **Economic Performance:** Rwanda has strong GDP growth and foreign direct investment (FDI), backed by a diverse economy and good governance. In contrast, Burundi faces challenges that slow its economic progress. **Burundi relies heavily on agriculture, with 85.1% of its workforce in this sector, while only 56% of Rwandans work in agriculture.** This heavy dependence on farming limits Burundi's economic diversity and growth potential.
-  
+
+![Employment distribution](https://github.com/user-attachments/assets/11c6c918-bfef-4226-bf35-20d299910ee9)
+
 - **Government Spending on Education:** From 2010 to 2022, Burundi spent an average of **$147.34 million** on education each year, while Rwanda spent **$366.32 million** on average during the same period.
 
 - **Investment and Growth Metrics:** Rwanda has a much higher average FDI of **$250.31 million** and a stronger average GDP growth rate of **6.71%**, compared to Burundi's lower average FDI of **$22.06 million** and GDP growth of **2.11%**. Furthermore, Rwanda’s maximum FDI is **$398.60 million**, highlighting its ability to attract foreign investment, which likely supports its higher GDP growth.
@@ -80,6 +85,8 @@ As a Burundian who has lived and studied in my country for many years, I have al
 - **Educational Disparities:** Rwanda’s well-developed education system is linked to its economic growth, while Burundi struggles with low literacy rates and educational achievements, especially among those working in agriculture.
 
 - **Political Stability:** Rwanda demonstrates better governance, with improvements in political stability and the rule of law shifting from negative to positive values on a scale of **-2.5 to 2.5** over the years. In contrast, Burundi has consistently negative political indicators, remaining below zero on this scale from 2010 to 2022, reflecting ongoing challenges with political instability. This instability hinders investment and sustainable growth opportunities, contributing to economic stagnation in Burundi.
+
+![political stability](https://github.com/user-attachments/assets/f63e263b-9981-45c0-b025-a04aa8612c71)
 
 - **Opportunities for Growth:** Identifying key areas for improvement—such as diversifying the economy, reforming education, and enhancing governance—can help Burundi improve its economic future and the overall quality of life for its people.
 
@@ -114,7 +121,7 @@ This will enable me to collaborate with local and international organizations to
 
 Moreover, I intend to establish **TechBridge Burundi**, a program focused on enhancing digital literacy among the youth. By providing the necessary skills and resources, we can empower the next generation and promote innovation, ultimately contributing to Burundi’s economic growth and improved quality of life.
 
-
+![TechBridge_Burundi](https://github.com/user-attachments/assets/a36c56b3-aa4d-4294-bb55-9e66623aaa1e)
 
 ## References
 - World Bank Database: [World Bank](https://www.worldbank.org)
@@ -125,3 +132,5 @@ Moreover, I intend to establish **TechBridge Burundi**, a program focused on enh
 
 ## Contact Information
 For inquiries or collaboration, please contact me at [satalisonn@gmail.com](mailto:satalisonn@gmail.com).
+
+# THANK YOU 
